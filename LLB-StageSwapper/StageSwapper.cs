@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using UnityEngine.SceneManagement;
 using UnityEngine;
 
-namespace LLB_StageSwap
+namespace LLB_StageSwapper
 {
     public class StageSwapper : MonoBehaviour
     {

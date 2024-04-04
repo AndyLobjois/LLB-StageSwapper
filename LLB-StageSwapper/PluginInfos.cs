@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace LLB_StageSwap
+namespace LLB_StageSwapper
 {
     public static class PluginInfos
     {

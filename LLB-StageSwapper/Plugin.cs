@@ -14,7 +14,7 @@ using System.Xml;
 using System.Xml.Serialization;
 using UnityEngine;
 
-namespace LLB_StageSwap
+namespace LLB_StageSwapper
 {
     [BepInPlugin(PluginInfos.PLUGIN_ID, PluginInfos.PLUGIN_NAME, PluginInfos.PLUGIN_VERSION)]
     [BepInDependency(LLBML.PluginInfos.PLUGIN_ID, BepInDependency.DependencyFlags.HardDependency)]

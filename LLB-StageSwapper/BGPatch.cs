@@ -9,10 +9,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using UnityEngine;
-using UnityEngine.EventSystems;
 using UnityEngine.SceneManagement;
 
-namespace LLB_StageSwap
+namespace LLB_StageSwapper
 {
     [HarmonyPatch(typeof(BG), nameof(BG.StartUp))]
     //[HarmonyPatch(typeof(OGONAGCFDPK), nameof(OGONAGCFDPK.DLIEBHKPBGP))]

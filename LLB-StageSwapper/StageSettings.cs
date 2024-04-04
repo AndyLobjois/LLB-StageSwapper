@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.Xml.Serialization;
 using UnityEngine;
 
-namespace LLB_StageSwap
+namespace LLB_StageSwapper
 {
     [Serializable]
     public class StageSettings
