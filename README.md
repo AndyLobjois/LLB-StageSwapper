@@ -7,6 +7,10 @@ She gave me permission for taking care of it.
 Thanks a lot ! ♥
 ```
 
+# Download
+
+Download StageSwapper from [Thunderstore](https://thunderstore.io/c/lethal-league-blaze/p/AndyLobjois/StageSwapper/) !
+
 # How to install a custom stage ?
 
 - Launch the game once, **Stage Swapper** folder will be created automatically.
