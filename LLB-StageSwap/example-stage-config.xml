@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<StageSettings>
+	<ShadowDistance>100</ShadowDistance>
+	<CameraPositionY>1.1</CameraPositionY>
+	<NormalObjects>
+		<string>Normal</string>
+		<string>More here</string>
+	</NormalObjects>
+	<EclipseObjects>
+		<string>Eclipse</string>
+		<string>Same add more here</string>
+	</EclipseObjects>
+	<IntroCamShots>
+		<CamShot>
+			<StartCam>
+				<x>-7.19</x>
+				<y>0.65</y>
+				<z>-3.53</z>
+				<rotX>1.163</rotX>
+				<rotY>15.147</rotY>
+				<rotZ>0.312</rotZ>
+			</StartCam>
+			<EndCam>
+				<x>5.32</x>
+				<y>1.05</y>
+				<z>0.46</z>
+				<rotX>1.008</rotX>
+				<rotY>-0.391</rotY>
+				<rotZ>0.27</rotZ>
+			</EndCam>
+			<Duration>3</Duration>
+			<Smooth>true</Smooth>
+		</CamShot>
+	</IntroCamShots>
+
+</StageSettings>
