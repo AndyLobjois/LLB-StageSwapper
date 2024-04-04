@@ -2,7 +2,9 @@ Swap stages with custom Unity scenes in Lethal League Blaze.<br>
 Example with the Hive Underground: [https://github.com/AndyLobjois/Custom-Stages/tree/main/Hive Underground](https://github.com/AndyLobjois/Custom-Stages/tree/main/Hive%20Underground)
 
 ```
-StageSwapper is originally made by Amanda and she gave me permission for taking care of it. Thanks a lot ! ♥
+StageSwapper is originally made by Amanda !
+She gave me permission for taking care of it.
+Thanks a lot ! ♥
 ```
 
 # How to install a custom stage ?
