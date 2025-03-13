@@ -94,8 +94,8 @@ Download StageSwapper from [Thunderstore](https://thunderstore.io/c/lethal-leagu
     ```
     
     - If your Normal/Eclipse gameobject "folders" have specific names, register them inside `<NormalObjects>` and `<EclipseObjects>` tags, StageSwapper will look for them.
-    - You can add several <string> tag inside <NormalObjects> and <EclipseObjects> if you want.
-    - You can add several <CamShot> if you want.
+    - You can add several `<string>...</string>` tag inside `<NormalObjects>` and `<EclipseObjects>` if you want.
+    - You can add several `<CamShot>` if you want.
 
 ### <ins>Tips</ins>
 
