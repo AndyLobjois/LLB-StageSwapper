@@ -18,7 +18,7 @@ Download StageSwapper from [Thunderstore](https://thunderstore.io/c/lethal-leagu
 - Inside Stage Swapper folder, place the **Custom** **Stage File*** and **the XML file** !**
 - Stage file’s name indicate which stage to replace (see Bundles/Stages folder for the names)
 
-(*) Custom Stage files are “AssetBundles” used by Unity and have no formats.<br>
+(*) Custom Stage files are “AssetBundles” used by Unity and have no extensions.<br>
 (**) .xml file gather specific informations for the stage (shadow distance, camera introductions, …)
 
 # How to create a custom stage ?
