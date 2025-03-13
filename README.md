@@ -1,4 +1,5 @@
-![](icon.png)
+<p align="center"><img src="LLB-StageSwapper/icon.png">
+
 
 Swap stages with custom Unity scenes in Lethal League Blaze.<br>
 Example with the Hive Underground: [https://github.com/AndyLobjois/Custom-Stages/tree/main/Hive Underground](https://github.com/AndyLobjois/Custom-Stages/tree/main/Hive%20Underground)
