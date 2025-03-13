@@ -100,7 +100,7 @@ Download StageSwapper from [Thunderstore](https://thunderstore.io/c/lethal-leagu
 ### <ins>Tips</ins>
 
 - Delete anything outside the Always/Normal/Eclipse gameobjects (except CustomReceiveShadowsPlane). Don’t bloat your scene.
-- Remove any camera or audio listener from the scene, it’ll highjack the game.
+- Remove any camera or audio listener from the scene, it’ll hijack the camera/audio of the game.
 - I recommend to use Directional Light instead of other types for perfomance reasons.
     - You can use Dynamic Shadows too for easier lighting.
     - You can bake your lights if you know how to manage that.
